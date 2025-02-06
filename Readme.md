@@ -10,7 +10,7 @@ A minimal Django REST API for tracking expenses and incomes by category.
 ## Quick Start
 1. **Install Requirements**
    ```bash
-   git clone 
+   git clone https://github.com/KaungHtetSoe/myexpenses.git
    cd myexpenses
    pip install -r requirements.txt
 
